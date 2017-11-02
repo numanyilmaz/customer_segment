@@ -1,2 +1,2 @@
-# customer_segmentation
+# customer_segments
 Unsupervised learning project
